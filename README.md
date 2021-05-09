@@ -5,7 +5,7 @@ With an intelgient help of Neural network model and Machine learning i was able 
 
 I further fine tuned the model to reach the maximum efficency and accuracy.
 
-Click [here](https://github.com/josephthomas08/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb) to check my Jupyter notebook for Delverable 1 & 2.
+## Click [here](https://github.com/josephthomas08/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb) to check my Jupyter notebook for Delverable 1 & 2.
 
 ## Results 
 
@@ -78,7 +78,7 @@ The EIN and NAME  variables was dropped from the analysis because they are neith
 
 ## Deliverable 3: Optimize the Model
 
-Click [here](https://github.com/josephthomas08/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb) to check my Jupyter notebook for Delverable 3.
+## Click [here](https://github.com/josephthomas08/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb) to check my Jupyter notebook for Delverable 3.
 
 ### The model is optimized, and the predictive accuracy is increased to over 75%, or there is working code that makes three attempts to increase model performance using the following steps:
 #### D3.1 Noisy variables are removed from features 
