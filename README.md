@@ -6,11 +6,31 @@
 
 ### The following preprocessing steps have been performed:
 #### D 1.1 The EIN and NAME columns have been dropped 
+
+<img width="1026" alt="D1 1 Module 19" src="https://user-images.githubusercontent.com/75267605/117582577-a00fac80-b0d0-11eb-9bcd-e7b6f1533ba0.png">
+
+
+
 #### D 1.2 The columns with more than 10 unique values have been grouped together 
+
+<img width="595" alt="D1 2 Module 19" src="https://user-images.githubusercontent.com/75267605/117582581-a3a33380-b0d0-11eb-8c16-4ba86c31be40.png">
+
+
 #### D 1.3 TThe categorical variables have been encoded using one-hot encoding 
+
+
+<img width="1022" alt="D1 3 Module 19 " src="https://user-images.githubusercontent.com/75267605/117582585-a69e2400-b0d0-11eb-8b3f-f67094b17b36.png">
+
+
 #### D 1.4 The preprocessed data is split into features and target arrays 
 #### D 1.5 The preprocessed data is split into training and testing datasets 
+
+<img width="939" alt="D1 4-5 Module 19" src="https://user-images.githubusercontent.com/75267605/117582588-ab62d800-b0d0-11eb-9335-d636f64d8396.png">
+
+
 #### D 1.6 The numerical values have been standardized using the StandardScaler() module 
+
+<img width="661" alt="D1 6 Module 19" src="https://user-images.githubusercontent.com/75267605/117582596-b74e9a00-b0d0-11eb-99ba-1ec2aacadf45.png">
 
 ## Deliverable 2.0 : Compile, Train, and Evaluate the Model
 
