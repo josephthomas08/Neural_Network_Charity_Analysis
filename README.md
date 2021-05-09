@@ -37,11 +37,31 @@
 
 ### The neural network model using Tensorflow Keras contains working code that performs the following steps:
 #### D2.1 The number of layers, the number of neurons per layer, and activation function are defined
-#### D2.1 An output layer with an activation function is created 
-#### D2.1 There is an output for the structure of the model 
-#### D2.1 There is an output of the model’s loss and accuracy 
-#### D2.1 The model's weights are saved every 5 epochs 
-#### D2.1 The results are saved to an HDF5 file 
+#### D2.2 An output layer with an activation function is created 
+#### D2.3 There is an output for the structure of the model 
+
+<img width="994" alt="D2 1-3 Module 19" src="https://user-images.githubusercontent.com/75267605/117586393-e0c5f080-b0e5-11eb-8896-26f501f17bea.png">
+
+
+#### D2.4 There is an output of the model’s loss and accuracy 
+
+
+<img width="688" alt="D2 4 Module 19" src="https://user-images.githubusercontent.com/75267605/117586397-e4f20e00-b0e5-11eb-8d72-756a25231716.png">
+
+
+#### D2.5 The model's weights are saved every 5 epochs 
+
+
+<img width="777" alt="D2 5 Module 19" src="https://user-images.githubusercontent.com/75267605/117586399-e8859500-b0e5-11eb-8a8a-ef49da271e6a.png">
+
+
+#### D2.6 The results are saved to an HDF5 file 
+
+
+
+<img width="465" alt="D2 6 Module 19" src="https://user-images.githubusercontent.com/75267605/117586403-ed4a4900-b0e5-11eb-926b-7529e36363b8.png">
+
+
 
 
 ## Deliverable 3: Optimize the Model
