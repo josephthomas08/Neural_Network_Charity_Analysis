@@ -68,10 +68,46 @@
 
 ### The model is optimized, and the predictive accuracy is increased to over 75%, or there is working code that makes three attempts to increase model performance using the following steps:
 #### D3.1 Noisy variables are removed from features 
-#### D3.1 Additional neurons are added to hidden layers 
-#### D3.1 Additional hidden layers are added
-#### D3.1 The activation function of hidden layers or output layers is changed for optimization
-#### D3.1 The model's weights are saved every 5 epochs 
-#### D3.1 The results are saved to an HDF5 file 
+
+<img width="1002" alt="D3 1 Module 19" src="https://user-images.githubusercontent.com/75267605/117588184-db6da380-b0ef-11eb-9b99-96ba0cfc40bf.png">
+
+
+<img width="756" alt="D3 1 A Module 19" src="https://user-images.githubusercontent.com/75267605/117588178-d0b30e80-b0ef-11eb-88de-e046b3050f99.png">
+
+
+<img width="682" alt="D3 1 B Module 19" src="https://user-images.githubusercontent.com/75267605/117588192-ede7dd00-b0ef-11eb-9482-6027422f85a7.png">
+
+#### D3.2 Additional neurons are added to hidden layers 
+
+
+<img width="838" alt="D3 2 Module 19" src="https://user-images.githubusercontent.com/75267605/117588202-f8a27200-b0ef-11eb-9797-11e27d1d3eab.png">
+
+
+<img width="701" alt="D3 2 A Module 19 " src="https://user-images.githubusercontent.com/75267605/117588204-fd672600-b0ef-11eb-8e26-bdf3b5a2d67e.png">
+
+#### D3.3 Additional hidden layers are added
+
+<img width="794" alt="D3 3 Module 19" src="https://user-images.githubusercontent.com/75267605/117588210-022bda00-b0f0-11eb-8195-82aed5032cc3.png">
+
+<img width="738" alt="D3 3 A Module 19 " src="https://user-images.githubusercontent.com/75267605/117588218-0b1cab80-b0f0-11eb-86cb-61c932c24058.png">
+
+
+#### D3.4 The activation function of hidden layers or output layers is changed for optimization
+
+<img width="992" alt="D3 4 Module 19" src="https://user-images.githubusercontent.com/75267605/117588276-5e8ef980-b0f0-11eb-9539-79d13401db82.png">
+
+
+#### D3.5 The model's weights are saved every 5 epochs
+
+
+<img width="778" alt="D3 5 Module 19" src="https://user-images.githubusercontent.com/75267605/117588315-8d0cd480-b0f0-11eb-96be-4b27e460e872.png">
+
+
+#### D3.6 The results are saved to an HDF5 file 
+
+
+<img width="619" alt="D3 6 Module 19" src="https://user-images.githubusercontent.com/75267605/117588278-62228080-b0f0-11eb-8771-c2a2520d0452.png">
+
+
 
 ## Deliverable 4: A Written Report on the Neural Network Model
