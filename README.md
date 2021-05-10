@@ -7,6 +7,12 @@ I further fine tuned the model to reach the maximum efficency and accuracy.
 
 ## Click [here](https://github.com/josephthomas08/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb) to check my Jupyter notebook for Delverable 1 & 2.
 
+## Data Preprocessing 
+
+The data was inspected before we proceeded with the building of customized neural network for clarity in right funding projects. The two columns which was found irrelvant for our study to build network was "EIN" and NAME". These two columns did not serve as either targets nor features for predicting the success of donation.
+
+The target column for this project was evaluated as "IS_SUCCESSFUL" column
+
 ## Results 
 
 
@@ -27,6 +33,10 @@ The EIN and NAME  variables was dropped from the analysis because they are neith
 
 
 #### D 1.2 The columns with more than 10 unique values have been grouped together 
+
+The target column for this project was evaluated as "IS_SUCCESSFUL" column
+
+
 
 <img width="595" alt="D1 2 Module 19" src="https://user-images.githubusercontent.com/75267605/117582581-a3a33380-b0d0-11eb-8c16-4ba86c31be40.png">
 
